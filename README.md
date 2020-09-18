@@ -12,15 +12,7 @@ Um determinado cliente deseja realizar o registro de seu estoque de roupas atrav
 •Valor pago na compra
 •Valor para margem de 100% (Calculado automaticamente: valor pago * 2)
 •Preço sugerido
-Entendido o problema acima, construa uma aplicação em Java que resolva o problema do cliente. Os seguintes objetivos devem ser atingidos.
 
-•Atendimento das premissas levantadas com CRUD básico
-•Modelo 3 camadas:
-•Acesso via arquivo texto.
-•A camada de negócio deve possuir interfaces corretamente expostas e documentadas para serem utilizadas futuramente no acesso de uma outra interface gráfica.
-•A camada de interface console.
-•Uso de enumeradores Type-Safe para Tamanho e Cor das peças.
 
 Ambiente de desenvolvimento: IntelliJ, branch "dev" 
 Versão do JDK: 14.0.2
-Documentações associadas: nenhuma
