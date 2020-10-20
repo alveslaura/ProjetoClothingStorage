@@ -1,4 +1,4 @@
-Um determinado cliente deseja realizar o registro de seu estoque de roupas através de uma aplicação. A ideia é que esse estoque possa também ser acessado através de um App, a ser escrito futuramente. Atualmente, o controle de estoque é feito através de uma tabela Excel e possui os seguintes campos:
+A particular customer wants to register their clothing inventory through an application. The idea is that this stock can also be accessed through an App, to be written in the future. Currently, inventory control is done through an Excel table and has the following fields:
 
 •Código do item
 •Data de Entrada
